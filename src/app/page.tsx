@@ -1,4 +1,4 @@
-import type { FC } from "react";
+import { type FC } from "react";
 
 const Home: FC = () => {
 	return (
@@ -11,3 +11,5 @@ const Home: FC = () => {
 		</main>
 	);
 };
+
+export default Home;
